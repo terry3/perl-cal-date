@@ -1,6 +1,7 @@
 # perl-cal-date
-# perl 计算两个日期之间的天数
-# calculate the days between two date.
+
+perl 计算两个日期之间的天数
+calculate the days between two date.
 
 
 # 使用
